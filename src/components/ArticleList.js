@@ -1,4 +1,4 @@
-function Article(){
+function ArticleList(){
     return(
       <main>
         {/* return an array of article components */}
@@ -6,4 +6,4 @@ function Article(){
     )
 }
 
-export default Article
+export default ArticleList

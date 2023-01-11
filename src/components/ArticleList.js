@@ -5,3 +5,5 @@ function Article(){
       </main>
     )
 }
+
+export default Article

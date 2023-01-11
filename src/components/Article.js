@@ -7,3 +7,5 @@ function Article({title,date,preview}){
       </article>
     )
 }
+
+export default Article

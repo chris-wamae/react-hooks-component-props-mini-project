@@ -7,3 +7,4 @@ function About({src,about}){
 
     )
 }
+export default About 

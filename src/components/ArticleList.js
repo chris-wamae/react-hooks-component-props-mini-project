@@ -2,7 +2,8 @@ import Article from "./Article"
 function ArticleList(){
     return(
       <main>
-        {/* return an array of article components */}
+        {/* return an array of article components */
+         }
       </main>
     )
 }

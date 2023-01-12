@@ -1,5 +1,5 @@
 
-function Article({title,date,preview}){
+function Article({title,date="January 1, 1970",preview}){
     return (
       <article>
         <h3>{title}</h3>
